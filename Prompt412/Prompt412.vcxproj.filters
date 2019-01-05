@@ -30,5 +30,14 @@
     <ClCompile Include="Prompt412 Round 17 E. New Skateboard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prompt412 Round 19 B. Forgery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 19 C. Minimum Binary Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 19 E. Row.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

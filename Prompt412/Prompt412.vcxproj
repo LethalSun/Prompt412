@@ -24,6 +24,9 @@
     <ClCompile Include="Prompt412 Round 16 E. Reorder the Array.cpp" />
     <ClCompile Include="Prompt412 Round 17 C. Free Ice Cream.cpp" />
     <ClCompile Include="Prompt412 Round 17 E. New Skateboard.cpp" />
+    <ClCompile Include="Prompt412 Round 19 B. Forgery.cpp" />
+    <ClCompile Include="Prompt412 Round 19 C. Minimum Binary Number.cpp" />
+    <ClCompile Include="Prompt412 Round 19 E. Row.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
