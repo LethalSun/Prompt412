@@ -39,5 +39,32 @@
     <ClCompile Include="Prompt412 Round 19 E. Row.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prompt412 Round 17 D. Mentors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 19 D. Nikita and string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 20 A. Again Twenty Five.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 20 B. A Prosperous Lot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 20 C. Lucky Year.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 20 D. Parallelogram is Back.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 20 E. Woodcutters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 17 A. Codehorses T-shirts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt412 Round 17 B. Delete from the Left.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

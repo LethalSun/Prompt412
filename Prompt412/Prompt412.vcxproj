@@ -22,18 +22,27 @@
     <ClCompile Include="Prompt412 Round 16 C. New Year and Domino.cpp" />
     <ClCompile Include="Prompt412 Round 16 D. Nicholas and Permutation.cpp" />
     <ClCompile Include="Prompt412 Round 16 E. Reorder the Array.cpp" />
+    <ClCompile Include="Prompt412 Round 17 A. Codehorses T-shirts.cpp" />
+    <ClCompile Include="Prompt412 Round 17 B. Delete from the Left.cpp" />
     <ClCompile Include="Prompt412 Round 17 C. Free Ice Cream.cpp" />
+    <ClCompile Include="Prompt412 Round 17 D. Mentors.cpp" />
     <ClCompile Include="Prompt412 Round 17 E. New Skateboard.cpp" />
     <ClCompile Include="Prompt412 Round 19 B. Forgery.cpp" />
     <ClCompile Include="Prompt412 Round 19 C. Minimum Binary Number.cpp" />
+    <ClCompile Include="Prompt412 Round 19 D. Nikita and string.cpp" />
     <ClCompile Include="Prompt412 Round 19 E. Row.cpp" />
+    <ClCompile Include="Prompt412 Round 20 A. Again Twenty Five.cpp" />
+    <ClCompile Include="Prompt412 Round 20 B. A Prosperous Lot.cpp" />
+    <ClCompile Include="Prompt412 Round 20 C. Lucky Year.cpp" />
+    <ClCompile Include="Prompt412 Round 20 D. Parallelogram is Back.cpp" />
+    <ClCompile Include="Prompt412 Round 20 E. Woodcutters.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{62567357-27CA-43D5-A740-D3CA4813B509}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Prompt412</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -85,6 +94,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>C:\Program Files %28x86%29\Windows Kits\10\Lib\10.0.17134.0\ucrt;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
