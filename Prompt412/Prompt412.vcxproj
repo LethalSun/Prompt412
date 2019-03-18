@@ -36,6 +36,7 @@
     <ClCompile Include="Prompt412 Round 20 C. Lucky Year.cpp" />
     <ClCompile Include="Prompt412 Round 20 D. Parallelogram is Back.cpp" />
     <ClCompile Include="Prompt412 Round 20 E. Woodcutters.cpp" />
+    <ClCompile Include="Prompt412 Round 28 B. Best Subsegment.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

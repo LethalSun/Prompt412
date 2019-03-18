@@ -66,5 +66,8 @@
     <ClCompile Include="Prompt412 Round 17 B. Delete from the Left.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prompt412 Round 28 B. Best Subsegment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
