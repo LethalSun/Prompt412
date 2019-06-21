@@ -1,4 +1,4 @@
-#define P_17_D
+//#define P_17_D
 #define _CRT_SECURE_NO_WARNINGS
 
 #ifdef P_17_D

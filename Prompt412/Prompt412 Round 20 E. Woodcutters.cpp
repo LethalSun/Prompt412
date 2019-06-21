@@ -1,4 +1,4 @@
-#define P_20_E
+//#define P_20_E
 
 #ifdef P_20_E
 #include <stdio.h>

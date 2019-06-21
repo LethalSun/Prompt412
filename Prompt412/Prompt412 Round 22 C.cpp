@@ -1,6 +1,5 @@
-//#define P_20_A
-
-#ifdef P_20_A
+//#define P_22_C
+#ifdef P_22_C
 #include <stdio.h>
 #include <vector>
 #include <queue>
@@ -24,13 +23,34 @@ using i64 = long long int;
 using ii = pair<int, int>;
 using ii64 = pair<i64, i64>;
 
+
+
 int main()
 {
-	i64 i;
-	cin >> i;
-	cout << 25;
+	int n, k;
+	string colors;
+	cin >> n >> k;
+	cin >> colors;
+
+	vector<int> colorCount(26,0);
+	for (int i = 0; i < n; ++i)
+	{
+		++colorCount[colors[i] - 'a'];
+	}
+	
+
+	for (int i = 0; i < 26; ++i)
+	{
+		if (colorCount[i] > k)
+		{
+			cout << "NO";
+			return 0;
+		}
+	}
+
+	cout << "Yes";
 
 	return 0;
-}
 
-#endif // P_20_A
+}
+#endif // P_22_C
