@@ -42,6 +42,10 @@
     <ClCompile Include="Prompt412 Round 22 D.cpp" />
     <ClCompile Include="Prompt412 Round 22 E.cpp" />
     <ClCompile Include="Prompt412 Rount 26.cpp" />
+    <ClCompile Include="Prompt412 Weekly Rount 13A.cpp" />
+    <ClCompile Include="Prompt412 Weekly Rount 14 C.cpp" />
+    <ClCompile Include="Prompt412 Weekly Rount 15 A.cpp" />
+    <ClCompile Include="Prompt412 Weekly Rount 15 B.cpp" />
     <ClCompile Include="Test.cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="Prompt412 Round 28 B. Best Subsegment.cpp" />
